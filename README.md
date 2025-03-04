@@ -10,13 +10,13 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	Binwalk-NG: Enhanced version of Binwalk for firmware analysis.
 •	QEMU: Emulates hardware for firmware testing.
 •	FIRMsploit: Framework for testing firmware vulnerabilities.
-________________________________________
+
 2. IoT Pentesting Tools
 •	IoT Inspector: Analyzes IoT device network activity.
 •	Zigbee2MQTT: For Zigbee protocol testing.
 •	RFCrack: RF analysis and hacking tool for IoT.
 •	BTLEJack: A Bluetooth Low Energy sniffer and attacker.
-________________________________________
+
 3. Reverse Engineering Tools
 •	Radare2: A reverse engineering framework.
 •	Ghidra: Reverse engineering software developed by the NSA.
@@ -24,7 +24,7 @@ ________________________________________
 •	Capstone: A lightweight multi-architecture disassembly framework.
 •	Uncompyle6: Decompiles Python bytecode.
 •	Objdump: Displays information about object files.
-________________________________________
+
 4. Hardware Hacking Tools
 •	Flashrom: Tool for reading, writing, and verifying BIOS/firmware images.
 •	OpenOCD: Debugging, in-system programming, and boundary-scan testing tool.
@@ -32,7 +32,7 @@ ________________________________________
 •	Bus Pirate Utilities: Interfaces for SPI, UART, and I2C communication.
 •	SPI Flash Tools: Tools for working with SPI flash memory chips.
 •	FTDI Utilities: Debug and interface with FTDI chips.
-________________________________________
+
 5. Debugging and Protocol Analysis
 •	Wireshark: A network protocol analyzer.
 •	USBPcap: Captures USB traffic for analysis.
@@ -40,7 +40,7 @@ ________________________________________
 •	OpenLogicSniffer: A Java client for the Logic Sniffer hardware.
 •	Sigrok: Multi-platform, open-source signal analysis software.
 •	UART Tools: Utilities to interact with UART interfaces.
-________________________________________
+
 6. Networking and Wireless Tools
 •	Aircrack-ng: For auditing wireless networks.
 •	Bettercap: Network attack and monitoring tool.
@@ -49,23 +49,23 @@ ________________________________________
 •	Kismet: Wireless network sniffer and IDS.
 •	Reaver: For attacking WPS-enabled networks.
 •	hcxtools: A toolkit for capturing and converting Wi-Fi traffic.
-________________________________________
+
 7. Exploitation Frameworks
 •	RouterSploit: Exploitation framework for embedded devices.
 •	ExploitDB: Database of publicly available exploits.
-________________________________________
+
 8. Serial and JTAG Debugging Tools
 •	Minicom: A text-based serial port communication program.
 •	Screen: A terminal multiplexer and serial interface.
 •	JTAGenum: Identifies JTAG pinouts for debugging.
 •	OpenJTAG: Tools for interfacing with JTAG debugging hardware.
-________________________________________
+
 9. Cryptographic Analysis
 •	John the Ripper: Password cracking tool.
 •	Hashcat: Advanced password recovery tool.
 •	aeskeyfind: Locates AES keys in memory dumps.
 •	Cryptsetup: LUKS disk encryption setup utility.
-________________________________________
+
 10. Miscellaneous Tools
 •	Strings: Extracts readable strings from binary files.
 •	Strace: Debugging tool for system calls.
