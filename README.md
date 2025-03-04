@@ -5,11 +5,17 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 1. Firmware Analysis Tools
    
 •	Binwalk: A tool for analyzing and extracting firmware images.
+
 •	Firmware Mod Kit: Helps modify firmware images.
+
 •	FirmAE: Automates firmware unpacking and analysis.
+
 •	Firmwalker: A script to parse unpacked firmware for interesting data.
+
 •	Binwalk-NG: Enhanced version of Binwalk for firmware analysis.
+
 •	QEMU: Emulates hardware for firmware testing.
+
 •	FIRMsploit: Framework for testing firmware vulnerabilities.
 
 3. IoT Pentesting Tools
