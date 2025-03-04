@@ -3,6 +3,7 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 
 ## Tools : 
 1. Firmware Analysis Tools
+   
 •	Binwalk: A tool for analyzing and extracting firmware images.
 •	Firmware Mod Kit: Helps modify firmware images.
 •	FirmAE: Automates firmware unpacking and analysis.
@@ -11,13 +12,15 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	QEMU: Emulates hardware for firmware testing.
 •	FIRMsploit: Framework for testing firmware vulnerabilities.
 
-2. IoT Pentesting Tools
+3. IoT Pentesting Tools
+   
 •	IoT Inspector: Analyzes IoT device network activity.
 •	Zigbee2MQTT: For Zigbee protocol testing.
 •	RFCrack: RF analysis and hacking tool for IoT.
 •	BTLEJack: A Bluetooth Low Energy sniffer and attacker.
 
-3. Reverse Engineering Tools
+5. Reverse Engineering Tools
+   
 •	Radare2: A reverse engineering framework.
 •	Ghidra: Reverse engineering software developed by the NSA.
 •	IDA Free: Free version of the IDA Pro disassembler.
@@ -25,7 +28,8 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	Uncompyle6: Decompiles Python bytecode.
 •	Objdump: Displays information about object files.
 
-4. Hardware Hacking Tools
+7. Hardware Hacking Tools
+   
 •	Flashrom: Tool for reading, writing, and verifying BIOS/firmware images.
 •	OpenOCD: Debugging, in-system programming, and boundary-scan testing tool.
 •	ChipWhisperer: A side-channel analysis and fault-injection toolkit.
@@ -33,7 +37,8 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	SPI Flash Tools: Tools for working with SPI flash memory chips.
 •	FTDI Utilities: Debug and interface with FTDI chips.
 
-5. Debugging and Protocol Analysis
+9. Debugging and Protocol Analysis
+    
 •	Wireshark: A network protocol analyzer.
 •	USBPcap: Captures USB traffic for analysis.
 •	Logic Analyzer Tools: Interfacing with logic analyzers for signal analysis.
@@ -41,7 +46,8 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	Sigrok: Multi-platform, open-source signal analysis software.
 •	UART Tools: Utilities to interact with UART interfaces.
 
-6. Networking and Wireless Tools
+11. Networking and Wireless Tools
+    
 •	Aircrack-ng: For auditing wireless networks.
 •	Bettercap: Network attack and monitoring tool.
 •	Nmap: A network discovery and scanning tool.
@@ -50,23 +56,27 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	Reaver: For attacking WPS-enabled networks.
 •	hcxtools: A toolkit for capturing and converting Wi-Fi traffic.
 
-7. Exploitation Frameworks
+13. Exploitation Framework
+
 •	RouterSploit: Exploitation framework for embedded devices.
 •	ExploitDB: Database of publicly available exploits.
 
-8. Serial and JTAG Debugging Tools
+15. Serial and JTAG Debugging Tools
+    
 •	Minicom: A text-based serial port communication program.
 •	Screen: A terminal multiplexer and serial interface.
 •	JTAGenum: Identifies JTAG pinouts for debugging.
 •	OpenJTAG: Tools for interfacing with JTAG debugging hardware.
 
-9. Cryptographic Analysis
+17. Cryptographic Analysis
+    
 •	John the Ripper: Password cracking tool.
 •	Hashcat: Advanced password recovery tool.
 •	aeskeyfind: Locates AES keys in memory dumps.
 •	Cryptsetup: LUKS disk encryption setup utility.
 
-10. Miscellaneous Tools
+19. Miscellaneous Tools
+    
 •	Strings: Extracts readable strings from binary files.
 •	Strace: Debugging tool for system calls.
 •	Objdump: Displays information about object files.
@@ -78,6 +88,7 @@ Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, se
 •	pyserial: Python library for serial communication.
 
 Software-Defined Radio (SDR) Tools
+
 •	GNU Radio: A framework for developing and simulating software-defined radio.
 •	HackRF Tools: Utilities for the HackRF SDR device.
 •	RTL-SDR Tools: Command-line utilities for the RTL-SDR devices.
