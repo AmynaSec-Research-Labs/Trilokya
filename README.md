@@ -1,6 +1,9 @@
 # Trilokya
 Powering Hardware, Radio, Web, and IoT Security Assessments Trilokya OS is a, security-focused operating system designed for penetration testers, security researchers, and ethical hackers specializing in hardware security, radio frequency (RF) analysis, web application security, and IoT penetration testing.
 
+## What is Trilokya?
+Trilokya, in Hindu history and philosophy, refers to the three realms of existence: Swarga Loka (Heavenly Realm), Mrutyu Loka (Earthly Realm), and Patal Loka (Netherworld). These realms define the cosmic structure of existence, where beings traverse based on karma and spiritual evolution.
+
 ## Tools : 
 1. Firmware Analysis Tools
    
