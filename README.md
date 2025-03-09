@@ -121,7 +121,7 @@ We welcome contributions from the community. Please submit pull requests, report
 For questions, support, or collaboration opportunities, reach out via:
 - **Website**: [Amynasec Labs](https://amynasec.io)
 - **Email**: info@amynasec.io
-- **GitHub Issues**: [Submit an Issue](https://github.com/amynasec/trilokya-os/issues)
+- **GitHub Issues**: [Submit an Issue](https://github.com/AmynaSec-Research-Labs/Trilokya-/issues)
 
 ---
 
