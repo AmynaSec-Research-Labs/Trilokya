@@ -1,7 +1,5 @@
 # Trilokya OS
 
-![Trilokya OS](https://your-image-url.com)
-
 ## Powering Hardware, Radio, Web, and IoT Security Assessments
 
 **Trilokya OS** is a security-focused operating system designed for penetration testers, security researchers, and ethical hackers specializing in:
