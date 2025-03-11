@@ -104,6 +104,9 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 - **URH** – Universal Radio Hacker.
 - **WHAD** – Wireless Hacking Devices.
 
+###🔹 Industrial Control Systems (ICS) Tools
+
+- **MBTGET** – Modbus TCP client for reading/writing registers.
 ---
 
 ## 📌 Download & Installation
