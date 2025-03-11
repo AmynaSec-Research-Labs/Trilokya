@@ -6,6 +6,9 @@
 - Hardware Security
 - Radio Frequency (RF) Analysis
 - IoT Penetration Testing
+- Automotive Penetration Testing
+- RF Penetration Testing
+- 
 
 ---
 
