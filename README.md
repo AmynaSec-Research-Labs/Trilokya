@@ -119,9 +119,15 @@ Get **Trilokya OS** from the official link:
 ----------
 
 ## 🛠️ Contributing
-We welcome contributions from the community. Please submit pull requests, report issues, or suggest new tools and enhancements.
 
----
+**Contributors:**
+
+-   Arun Mane
+-   Omkar Mali
+
+We welcome contributions from the community. Please feel free to submit pull requests, report issues, or suggest new tools and enhancements.
+
+----------
 
 ## 📞 Contact & Support
 For questions, support, or collaboration opportunities, reach out via:
