@@ -1,14 +1,14 @@
 # Trilokya OS
 
-## Powering Atutomotive, IoT, ICS and Telco security assessment
+## Powering Automotive, IoT, ICS and Telco security assessment
 
 **Trilokya OS** is a security-focused operating system designed for penetration testers, security researchers, and ethical hackers specializing in:
-- Hardware Security
+- Hardware Penetration Testing
 - Radio Frequency (RF) Analysis
 - IoT Penetration Testing
 - Automotive Penetration Testing
 - RF Penetration Testing
-- 
+- ICS Penetration Testing
 
 ---
 
@@ -105,7 +105,7 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ## 📌 Download & Installation
 Get **Trilokya OS** from the official link:
-[🔗 Download Here](https://amynasecresearch-my.sharepoint.com/:u:/g/personal/omkar_mali_amynasec_io/EacmM6lxDwVPtRBfq2YEGmEB1hUnfGayrzZ_nkLLJ51IbQ?e=VUgmMu)
+[🔗 Download Here](https://amynasecresearch-my.sharepoint.com/:u:/g/personal/omkar_mali_amynasec_io/EacmM6lxDwVPtRBfq2YEGmEBTexbUEVRkEkl4LeBHSKuWQ?e=20Wn6T)
 
 ## 🔑 Credentials
 
