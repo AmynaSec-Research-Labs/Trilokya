@@ -5,7 +5,6 @@
 **Trilokya OS** is a security-focused operating system designed for penetration testers, security researchers, and ethical hackers specializing in:
 - Hardware Security
 - Radio Frequency (RF) Analysis
-- Web Application Security
 - IoT Penetration Testing
 
 ---
