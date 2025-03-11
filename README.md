@@ -83,13 +83,11 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ### 🔹 Miscellaneous Tools
 - **Strings** – Extract readable strings from binaries.
-- **Strace** – System call debugging.
 - **Objdump** – Inspect object files.
 - **GDB** – GNU Debugger.
 - **Firmadyne** – Firmware emulation framework.
-- **Volatility** – Memory forensics tool.
 - **Socat** – Bi-directional data transfer relay.
-- **pyserial** – Python serial communication.
+
 
 ### 🔹 Software-Defined Radio (SDR) Tools
 - **GNU Radio** – Develop and simulate SDR.
@@ -127,10 +125,15 @@ We welcome contributions from the community. Please feel free to submit pull req
 ## 📞 Contact & Support
 For questions, support, or collaboration opportunities, reach out via:
 - **Website**: [Amynasec Labs](https://amynasec.io)
-- **Email**: info@amynasec.io
 - **GitHub Issues**: [Submit an Issue](https://github.com/AmynaSec-Research-Labs/Trilokya-/issues)
 
 ---
 
 _Developed by [Amynasec Labs](https://amynasec.io) for security professionals and researchers._
+
+---
+
+📢 Version Information
+
+This is Trilokya Version 1. Future updates will be released accordingly.
 
