@@ -34,6 +34,7 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ### 🔹 IoT Penetration Testing
 - **IoT Inspector** – Analyze IoT device network activity.
+- **EXPLIoT** – A Framework for security testing and exploiting IoT products and IoT infrastructure.
 - **Zigbee2MQTT** – Zigbee protocol testing.
 - **RFCrack** – RF analysis and hacking tool.
 - **BTLEJack** – Bluetooth Low Energy (BLE) sniffer & attacker.
