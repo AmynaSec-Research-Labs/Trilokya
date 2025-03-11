@@ -1,6 +1,6 @@
 # Trilokya OS
 
-## Powering Hardware, Radio, Web, and IoT Security Assessments
+## Powering Atutomotive, IoT, ICS and Telco security assessment
 
 **Trilokya OS** is a security-focused operating system designed for penetration testers, security researchers, and ethical hackers specializing in:
 - Hardware Security
