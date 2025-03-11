@@ -25,8 +25,6 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ### 🔹 Firmware Analysis
 - **Binwalk** – Analyze and extract firmware images.
-- **Firmware Mod Kit** – Modify firmware images.
-- **FirmAE** – Automates firmware unpacking and analysis.
 - **Firmwalker** – Parse unpacked firmware for sensitive data.
 - **Binwalk-NG** – Enhanced Binwalk for firmware analysis.
 - **QEMU** – Hardware emulation for firmware testing.
@@ -34,14 +32,11 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ### 🔹 IoT Penetration Testing
 - **IoT Inspector** – Analyze IoT device network activity.
-- **EXPLIoT** – A Framework for security testing and exploiting IoT products and IoT infrastructure.
-- **Zigbee2MQTT** – Zigbee protocol testing.
-- **RFCrack** – RF analysis and hacking tool.
+- **EXPLIoT** – A Framework for security testing and exploiting IoT products and infrastructure.
 - **BTLEJack** – Bluetooth Low Energy (BLE) sniffer & attacker.
 
 ### 🔹 Reverse Engineering
 - **Radare2** – Reverse engineering framework.
-- **Ghidra** – NSA-developed reverse engineering tool.
 - **IDA Free** – Free version of IDA Pro disassembler.
 - **Objdump** – Display information about object files.
 
@@ -55,10 +50,8 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 
 ### 🔹 Debugging & Protocol Analysis
 - **Wireshark** – Network protocol analyzer.
-- **USBPcap** – Capture USB traffic.
 - **Logic Analyzer Tools** – Signal analysis tools.
 - **OpenLogicSniffer** – Java client for Logic Sniffer.
-- **Sigrok** – Multi-platform signal analysis software.
 - **UART Tools** – UART interface utilities.
 
 ### 🔹 Networking & Wireless Security
