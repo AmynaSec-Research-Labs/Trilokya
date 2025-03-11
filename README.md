@@ -43,8 +43,6 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 - **Radare2** – Reverse engineering framework.
 - **Ghidra** – NSA-developed reverse engineering tool.
 - **IDA Free** – Free version of IDA Pro disassembler.
-- **Capstone** – Multi-architecture disassembly framework.
-- **Uncompyle6** – Decompile Python bytecode.
 - **Objdump** – Display information about object files.
 
 ### 🔹 Hardware Hacking
@@ -114,7 +112,11 @@ Trilokya OS comes preloaded with a powerful suite of tools across multiple domai
 Get **Trilokya OS** from the official link:
 [🔗 Download Here](https://amynasecresearch-my.sharepoint.com/:u:/g/personal/omkar_mali_amynasec_io/EVdMA49mffFNnVUEI8o1eFgB_ALXbTqlajGr9v24cHN9zw?e=uRBHFc)
 
----
+## 🔑 Credentials
+
+-   **Password**: `trilokya`
+
+----------
 
 ## 🛠️ Contributing
 We welcome contributions from the community. Please submit pull requests, report issues, or suggest new tools and enhancements.
