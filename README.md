@@ -117,7 +117,7 @@ Get **Trilokya OS** from the official link:
 
 **Contributors:**
 
--   Arun Mane (https://amynasecresearch-my.sharepoint.com/:u:/g/personal/omkar_mali_amynasec_io/EacmM6lxDwVPtRBfq2YEGmEBTexbUEVRkEkl4LeBHSKuWQ?e=20Wn6T)
+-   Arun Mane
 -   Omkar Mali
 
 We welcome contributions from the community. Please feel free to submit pull requests, report issues, or suggest new tools and enhancements.
