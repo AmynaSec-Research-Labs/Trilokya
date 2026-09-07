@@ -116,6 +116,8 @@ Get **Trilokya OS** from the official link:
 **Contributors:**
 
 -   Arun Mane
+-   Sahil Surve
+-   Tushar Shinde
 
 
 We welcome contributions from the community. Please feel free to submit pull requests, report issues, or suggest new tools and enhancements.
